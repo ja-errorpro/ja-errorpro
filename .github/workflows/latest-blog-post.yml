@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                     max_post_count: "5"
-                    feed_list: "https://ja-errorpro.cf/posts/"
+                    feed_list: "https://ja-errorpro.cf/posts/index.xml"
