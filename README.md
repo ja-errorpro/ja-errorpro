@@ -1,9 +1,10 @@
-### Hi there 👋
+### 我不會寫程式
+
+### Who am I
+- A common student studying in CYCU ICE
 
 <!--
-**ja-errorpro/ja-errorpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
