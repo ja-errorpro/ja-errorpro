@@ -3,6 +3,10 @@
 ### Who am I
 - A common student studying in CYCU ICE
 
+### Recent Posts in [My BLOG](https://ja-errorpro.cf)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 
 
