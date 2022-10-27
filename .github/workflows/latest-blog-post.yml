@@ -13,4 +13,4 @@ jobs:
               with:
                     max_post_count: "5"
                     feed_list: "https://ja-errorpro.cf/posts/index.xml"
-                    template: '[$title](https://ja-errorpro.cf/$url)'
+                    template: '$newline[$title](https://ja-errorpro.cf/$url)$newline'
