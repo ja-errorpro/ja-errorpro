@@ -34,6 +34,8 @@ and more...
 
 ---
 ### Recent Posts in [My BLOG](https://ja-errorpro.cf)
+
+<table>
 <!-- BLOG-POST-LIST:START -->
 [【Discord 聊天機器人】 - Discord interactions.py 介紹與開始](https://ja-errorpro.cf//posts/2022/discordpy2_and_interactions/)
 
@@ -46,6 +48,9 @@ and more...
 [VSCode設定C++教學&lpar;Code Runner&rpar;](https://ja-errorpro.cf//posts/2022/vscode_cpp_setup/)
 <!-- BLOG-POST-LIST:END -->
 
+</table>
+
+---
 ### Contact Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompileErr0r?color=1ca0f1&label=%40CompileErr0r&logoColor=1ca0f1&style=social)](https://twitter.com/CompileErr0r)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:u810025@gmail.com)
