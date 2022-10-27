@@ -34,13 +34,7 @@ and more...
 
 ---
 ### Recent Posts in [My BLOG](https://ja-errorpro.cf)
-<!-- BLOG-POST-LIST:START -->
-- [【Discord 聊天機器人】 - Discord interactions.py 介紹與開始](/posts/2022/discordpy2_and_interactions/)
-- [【CTF-WriteUp】PicoCTF-file-run2](/posts/2022/ctf_picoctf_file_run2/)
-- [gdb 除錯工具學習](/posts/2022/gdb/)
-- [Vim 極簡教學](/posts/2022/vim_simple_tutorial/)
-- [VSCode設定C++教學&lpar;Code Runner&rpar;](/posts/2022/vscode_cpp_setup/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[【Discord 聊天機器人】 - Discord interactions.py 介紹與開始](https://ja-errorpro.cf//posts/2022/discordpy2_and_interactions/)[【CTF-WriteUp】PicoCTF-file-run2](https://ja-errorpro.cf//posts/2022/ctf_picoctf_file_run2/)[gdb 除錯工具學習](https://ja-errorpro.cf//posts/2022/gdb/)[Vim 極簡教學](https://ja-errorpro.cf//posts/2022/vim_simple_tutorial/)[VSCode設定C++教學&lpar;Code Runner&rpar;](https://ja-errorpro.cf//posts/2022/vscode_cpp_setup/)<!-- BLOG-POST-LIST:END -->
 
 ### Contact Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompileErr0r?color=1ca0f1&label=%40CompileErr0r&logoColor=1ca0f1&style=social)](https://twitter.com/CompileErr0r)
