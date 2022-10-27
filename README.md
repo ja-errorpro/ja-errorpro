@@ -36,17 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.cf)
 
 <table>
-<!-- BLOG-POST-LIST:START -->
-[【Discord 聊天機器人】 - Discord interactions.py 介紹與開始](https://ja-errorpro.cf//posts/2022/discordpy2_and_interactions/)
-
-[【CTF-WriteUp】PicoCTF-file-run2](https://ja-errorpro.cf//posts/2022/ctf_picoctf_file_run2/)
-
-[gdb 除錯工具學習](https://ja-errorpro.cf//posts/2022/gdb/)
-
-[Vim 極簡教學](https://ja-errorpro.cf//posts/2022/vim_simple_tutorial/)
-
-[VSCode設定C++教學&lpar;Code Runner&rpar;](https://ja-errorpro.cf//posts/2022/vscode_cpp_setup/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.cf/posts/2022/discordpy2_and_interactions/">【Discord 聊天機器人】 - Discord interactions.py 介紹與開始</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/ctf_picoctf_file_run2/">【CTF-WriteUp】PicoCTF-file-run2</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/gdb/">gdb 除錯工具學習</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/vim_simple_tutorial/">Vim 極簡教學</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/vscode_cpp_setup/">VSCode設定C++教學&lpar;Code Runner&rpar;</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
