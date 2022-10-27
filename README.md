@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.cf)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.cf/posts/2022/git_initial/">【Git】Git初始設定與環境</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/discordpy2_and_interactions/">【Discord 聊天機器人】 - Discord interactions.py 介紹與開始</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/ctf_picoctf_file_run2/">【CTF-WriteUp】PicoCTF-file-run2</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/gdb/">gdb 除錯工具學習</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/vim_simple_tutorial/">Vim 極簡教學</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.cf/posts/2022/git_branch/">【Git】Git分支的打開方式</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/git_initial/">【Git】Git初始設定與環境</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/discordpy2_and_interactions/">【Discord 聊天機器人】 - Discord interactions.py 介紹與開始</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/ctf_picoctf_file_run2/">【CTF-WriteUp】PicoCTF-file-run2</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2022/gdb/">gdb 除錯工具學習</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
