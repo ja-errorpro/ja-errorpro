@@ -1,4 +1,6 @@
-### W0Wwww...You just found my github profile!
+### Hi, there
+
+![](./assets/images/head.png)
 
 ![](https://komarev.com/ghpvc/?username=ja-errorpro&color=orange)
 
