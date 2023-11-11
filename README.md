@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.cf)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.cf/posts/2023/rsa/">【CTF】密碼學-RSA加密演算法</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/elf/">【系統安全】ELF檔案格式</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/linux_system_security/">【系統安全】Linux 安全機制</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/asm/">【系統安全】組合語言</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/ctf_picoctf_heresalibc/">【CTF-WriteUp】PicoCTF-Here&#39;s a LIBC</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.cf/posts/2023/ctf_tools/">【CTF】CTF工具集</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/nmap/">【CTF】Nmap</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/rsa/">【CTF】密碼學-RSA加密演算法</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/elf/">【系統安全】ELF檔案格式</a></td></tr><tr><td><a href="https://ja-errorpro.cf/posts/2023/linux_system_security/">【系統安全】Linux 安全機制</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
