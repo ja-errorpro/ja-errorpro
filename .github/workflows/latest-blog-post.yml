@@ -12,5 +12,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                     max_post_count: "5"
-                    feed_list: "https://ja-errorpro.cf/posts/index.xml"
-                    template: '<tr><td><a href="https://ja-errorpro.cf$url">$title</a></td></tr>'
+                    feed_list: "https://ja-errorpro.codes/posts/index.xml"
+                    template: '<tr><td><a href="https://ja-errorpro.codes$url">$title</a></td></tr>'
