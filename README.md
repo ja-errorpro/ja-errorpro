@@ -43,7 +43,7 @@ and more...
 ---
 ### Contact Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompileErr0r?color=1ca0f1&label=%40CompileErr0r&logoColor=1ca0f1&style=social)](https://twitter.com/CompileErr0r)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yijiahuang@ja-errorpro.cf)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yijiahuang@ja-errorpro.codes)
 [![Website](https://img.shields.io/website?label=BLOG&up_color=green&up_message=Comment&url=https%3A%2F%2Fja-errorpro.codes)](https://ja-errorpro.codes/comment/)
 
 
