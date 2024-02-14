@@ -33,7 +33,7 @@ and more...
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 ---
-### Recent Posts in [My BLOG](https://ja-errorpro.cf)
+### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
 <!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_heap/">【CTF】Heap Exploitation&lpar;Part 1 - Overview, UAF&rpar;</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_tools/">【CTF】CTF工具集</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/nmap/">【CTF】Nmap</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/rsa/">【CTF】密碼學-RSA加密演算法</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/elf/">【系統安全】ELF檔案格式</a></td></tr><!-- BLOG-POST-LIST:END -->
@@ -44,7 +44,7 @@ and more...
 ### Contact Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompileErr0r?color=1ca0f1&label=%40CompileErr0r&logoColor=1ca0f1&style=social)](https://twitter.com/CompileErr0r)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yijiahuang@ja-errorpro.cf)
-[![Website](https://img.shields.io/website?label=BLOG&up_color=green&up_message=Comment&url=https%3A%2F%2Fja-errorpro.cf)](https://ja-errorpro.cf/comment/)
+[![Website](https://img.shields.io/website?label=BLOG&up_color=green&up_message=Comment&url=https%3A%2F%2Fja-errorpro.codes)](https://ja-errorpro.codes/comment/)
 
 
 <!--
