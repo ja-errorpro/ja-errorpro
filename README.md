@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_heap/">【CTF】Heap Exploitation&lpar;Part 1 - Overview, UAF&rpar;</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_tools/">【CTF】CTF工具集</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/nmap/">【CTF】Nmap</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/rsa/">【CTF】密碼學-RSA加密演算法</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/elf/">【系統安全】ELF檔案格式</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Sacred-Scrolls-Revenge/">【HTB】Sacred Scrolls: Revenge</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_heap/">【CTF】Heap Exploitation&lpar;Part 1 - Overview, UAF&rpar;</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/ctf_tools/">【CTF】CTF工具集</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/nmap/">【CTF】Nmap</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2023/rsa/">【CTF】密碼學-RSA加密演算法</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
