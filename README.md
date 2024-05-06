@@ -1,4 +1,4 @@
-![](./assets/images/head.gif)
+![](./assets/images/head_2.gif)
 
 ![](https://komarev.com/ghpvc/?username=ja-errorpro&color=orange)
 
