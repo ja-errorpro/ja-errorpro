@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ja-errorpro&color=orange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-errorpro&hide=html,CSS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-errorpro&hide=html,CSS,javascript&layout=compact)
 ### Who am I ?
 - A common student studying in [Chung Yuan Christian University](https://www1.cycu.edu.tw/) Department of Information and Computer Engineering
 
