@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/picoctf/pwn/">【Pico】Pwn 系列解題紀錄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/stack_overflow/">【系統安全】Stack Overflow</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_pre_exam_2024/">【CTF-WriteUp】AIS3 Pre-Exam 2024</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/metasploitable3_writeup/">【資訊安全】Metasploitable3 滲透測試實作（筆記）</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Sacred-Scrolls-Revenge/">【HTB】Sacred Scrolls: Revenge</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_1/">【AIS3】The Journey of Becoming a Vulnerability Researcher</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/picoctf/pwn/">【Pico】Pwn 系列解題紀錄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/stack_overflow/">【系統安全】Stack Overflow</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_pre_exam_2024/">【CTF-WriteUp】AIS3 Pre-Exam 2024</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/metasploitable3_writeup/">【資訊安全】Metasploitable3 滲透測試實作（筆記）</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
