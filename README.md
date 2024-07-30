@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_1/">【AIS3】資安倫理</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_1/">【AIS3】The Journey of Becoming a Vulnerability Researcher</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_2/">【AIS3】威脅情資＆機器學習</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_3/">【AIS3】面對國家級關鍵基礎設施網路攻擊威脅: 從工業控制系統到網路攻防</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/picoctf/pwn/">【Pico】Pwn 系列解題紀錄</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_2/">【AIS3】IDA 不只有 F5 可以按 IDA 101, Reverse 101</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_1/">【AIS3】資安倫理</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_1/">【AIS3】The Journey of Becoming a Vulnerability Researcher</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_2/">【AIS3】威脅情資＆機器學習</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_3/">【AIS3】面對國家級關鍵基礎設施網路攻擊威脅: 從工業控制系統到網路攻防</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
