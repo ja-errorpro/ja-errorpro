@@ -36,7 +36,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_2/">【AIS3】IDA 不只有 F5 可以按 IDA 101, Reverse 101</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_3/">【AIS3】IoT 檢測實務</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_4/">【AIS3】從遊戲學 Windows Reverse - 除了 F5 之外還有哪幾招</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_1/">【AIS3】資安倫理</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d1_1/">【AIS3】The Journey of Becoming a Vulnerability Researcher</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d3_1/">【AIS3】深入淺出網域&lpar;AD&rpar;安全:細探各項AD組態設定的濫用</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d3_2/">【AIS3】網頁動態安全檢測與報戶 &lpar;RASP&rpar;</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_2/">【AIS3】IDA 不只有 F5 可以按 IDA 101, Reverse 101</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_3/">【AIS3】IoT 檢測實務</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2024/ais3_d2_4/">【AIS3】從遊戲學 Windows Reverse - 除了 F5 之外還有哪幾招</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
