@@ -6,6 +6,13 @@
 ### Who am I ?
 - A common student studying in [Chung Yuan Christian University](https://www1.cycu.edu.tw/) Department of Information and Computer Engineering
 
+### Experience
+- AIS3 2024
+- TaiwanHolyHigh 2021
+- First Robot Competition 8176 Programmer 2021
+- SITCON 2024 Volunteer
+- Google Developer Groups on Campus CYCU 2024 Organizer
+
 ---
 ### I want to learn...
 ![C](https://img.shields.io/badge/-C-00599c?style=flat&logo=C)
