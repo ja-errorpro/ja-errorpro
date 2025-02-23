@@ -6,7 +6,12 @@
 ### Who am I ?
 - A common student studying in [Chung Yuan Christian University](https://www1.cycu.edu.tw/) Department of Information and Computer Engineering
 
-### Experience
+## Certificates
+- Industry Professional Assessment System - Information Security Engineer - Associate Level 2024
+- Industry Professional Assessment System - Information Security Engineer - Specialist Level 2025(Preparing)
+- PEN-200 OffSec Certified Professional 2025(Preparing)
+
+### Experiences
 - TaiwanHolyHigh 2021
 - 高中資訊能力競賽 2021
 - First Robot Competition 8176 Programmer 2021
