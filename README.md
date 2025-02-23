@@ -21,7 +21,7 @@
 - Google Developer Student Clubs 2023 Core Team & Speaker
 - HITCON 2023 Attendee
 - COSCUP 2023 Attendee
-- Cohegiate Programming Examination 2023 4/7
+- Collegiate Programming Examination 2023 4/7
 - Cyber Security Competition 2023
 - Google CTF 2023
 - Google DevFest Taipei 2023 Attendee
