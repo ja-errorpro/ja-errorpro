@@ -41,6 +41,7 @@
 - Google DevFest Taoyuan 2024 Attendee
 - SITCON 2024 Volunteer
 - Google Developer Groups on Campus CYCU 2024 Organizer & Speaker
+- Devcore Conference 2025 Attendee
 
 ---
 ### I want to learn...
