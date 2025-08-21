@@ -42,6 +42,10 @@
 - SITCON 2024 Volunteer
 - Google Developer Groups on Campus CYCU 2024 Organizer & Speaker
 - Devcore Conference 2025 Attendee
+- SITCON 2025 Attendee
+- COSCUP 2025 Attendee
+- HITCON 2025 Attendee
+- Google Developer Groups On Campus CYCU 2025 Core Team
 
 ---
 ### I want to learn...
