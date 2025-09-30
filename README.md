@@ -8,8 +8,8 @@
 
 ### Certificates
 - Industry Professional Assessment System - Information Security Engineer - Associate Level 2024
-- Industry Professional Assessment System - Information Security Engineer - Specialist Level 2025(Preparing)
-- PEN-200 OffSec Certified Professional 2025(Preparing)
+- Industry Professional Assessment System - Information Security Engineer - Specialist Level 2025
+- PEN-200 OffSec Certified Professional(Preparing)
 
 ---
 ### Experiences
