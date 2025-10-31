@@ -77,7 +77,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2025/nycu_applicate/">115 陽明交大資工所丙戊組推甄心得</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/vmware_intel_virtualized/">VMWare 開啟內嵌虛擬化的一些坑</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/hitcon_2025/">HITCON 2025 BadUSB Easy+Medium WriteUp</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Titanic/">【HTB Machine】Titanic</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/uv/">都 5202 年了，你還在用 pip 嗎？快來試試 uv！</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2025/ncu_applicate/">115 中央大學資工所軟體工程組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/nycu_applicate/">115 陽明交大資工所丙戊組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/vmware_intel_virtualized/">VMWare 開啟內嵌虛擬化的一些坑</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/hitcon_2025/">HITCON 2025 BadUSB Easy+Medium WriteUp</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Titanic/">【HTB Machine】Titanic</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
