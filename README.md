@@ -77,7 +77,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2025/ntust_applicate/">115 國立臺灣科技大學資訊工程所乙組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/ncu_applicate/">115 中央大學資工所軟體工程組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/nycu_applicate/">115 陽明交大資工所丙戊組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/vmware_intel_virtualized/">VMWare 開啟內嵌虛擬化的一些坑</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/hitcon_2025/">HITCON 2025 BadUSB Easy+Medium WriteUp</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2026/asus-rtbe92u-aicloud/">ASUS AiCloud CVE-2025-59366 漏洞分析</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2026/credit-card-branding-attack/">VISA or MasterCard? 信用卡安全攻防</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/ntust_applicate/">115 國立臺灣科技大學資訊工程所乙組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/ncu_applicate/">115 中央大學資工所軟體工程組推甄</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2025/nycu_applicate/">115 陽明交大資工所丙戊組推甄</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
