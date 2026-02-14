@@ -2,17 +2,22 @@
 
 ![](https://komarev.com/ghpvc/?username=ja-errorpro&color=orange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja-errorpro&hide=html,CSS,javascript&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ja-errorpro&langs_count=5&theme=midnight-purple&hide=html,CSS,javascript,Jupyter%20Notebook)
+
 ### Who am I ?
+
 - A common student studying in [Chung Yuan Christian University](https://www1.cycu.edu.tw/) Department of Information and Computer Engineering
 
 ### Certificates
+
 - Industry Professional Assessment System - Information Security Engineer - Associate Level 2024
 - Industry Professional Assessment System - Information Security Engineer - Specialist Level 2025
 - PEN-200 OffSec Certified Professional(Preparing)
 
 ---
+
 ### Experiences
+
 - TaiwanHolyHigh 2021
 - 高中資訊能力競賽 2021
 - First Robot Competition 8176 Programmer 2021
@@ -41,14 +46,19 @@
 - Google DevFest Taoyuan 2024 Attendee
 - SITCON 2024 Volunteer
 - Google Developer Groups on Campus CYCU 2024 Organizer & Speaker
-- Devcore Conference 2025 Attendee
+- DEVCORE Conference 2025 Attendee
 - SITCON 2025 Attendee
 - COSCUP 2025 Attendee
 - HITCON 2025 Attendee
+- CYCU IT Department Part-time Assistant
 - Google Developer Groups On Campus CYCU 2025 Core Team
+- TeamT5 Camp 2026
+- Taiwan Security Club 2026 Staff
 
 ---
+
 ### I want to learn...
+
 ![C](https://img.shields.io/badge/-C-00599c?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?logo=c%2B%2B&style=flat)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&style=flat)
@@ -67,13 +77,16 @@
 and more...
 
 ---
+
 ### I use these OS
+
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=Windows11&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali-Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 ---
+
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
@@ -82,11 +95,12 @@ and more...
 </table>
 
 ---
+
 ### Contact Me
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/CompileErr0r?color=1ca0f1&label=%40CompileErr0r&logoColor=1ca0f1&style=social)](https://twitter.com/CompileErr0r)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yijiahuang@ja-errorpro.codes)
 [![Website](https://img.shields.io/website?label=BLOG&up_color=green&up_message=Comment&url=https%3A%2F%2Fja-errorpro.codes)](https://ja-errorpro.codes/comment/)
-
 
 <!--
 
@@ -100,4 +114,3 @@ and more...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
