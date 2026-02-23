@@ -54,6 +54,7 @@
 - Google Developer Groups On Campus CYCU 2025 Core Team
 - TeamT5 Camp 2026
 - Taiwan Security Club 2026 Staff
+- CYCU ICE Programming Language 1142(2026) Class TA
 
 ---
 
