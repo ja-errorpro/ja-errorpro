@@ -90,7 +90,7 @@ and more...
 ### Recent Posts in [My BLOG](https://ja-errorpro.codes)
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2026/codimd/">自架 CodiMD 採坑記</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/WingData/">【HTB Machine】WingData</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Facts/">【HTB Machine】Facts</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2026/chrome-elevator/">淺讀 Chrome Elevator: 如何繞過 Chrome App-Bound Encryption 來竊取資料</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2026/asus-rtbe92u-aicloud/">ASUS AiCloud CVE-2025-59366 漏洞分析</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://ja-errorpro.codes/posts/2026/%E8%87%AA%E6%9E%B6-codimd-%E6%8E%A1%E5%9D%91%E8%A8%98/">自架 CodiMD 採坑記</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/WingData/">【HTB Machine】WingData</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/HTB/Facts/">【HTB Machine】Facts</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2026/%E6%B7%BA%E8%AE%80-chrome-elevator-%E5%A6%82%E4%BD%95%E7%B9%9E%E9%81%8E-chrome-app-bound-encryption-%E4%BE%86%E7%AB%8A%E5%8F%96%E8%B3%87%E6%96%99/">淺讀 Chrome Elevator: 如何繞過 Chrome App-Bound Encryption 來竊取資料</a></td></tr><tr><td><a href="https://ja-errorpro.codes/posts/2026/asus-aicloud-cve-2025-59366-%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/">ASUS AiCloud CVE-2025-59366 漏洞分析</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
