@@ -6,7 +6,18 @@
 
 ### Who am I ?
 
-- A common student studying in [Chung Yuan Christian University](https://www1.cycu.edu.tw/) Department of Information and Computer Engineering
+- A common student studying in
+
+<table>
+<tr>
+  <td><strong>2022 – 2026</strong></td>
+  <td><a href="https://www.cycu.edu.tw/">Chung Yuan Christian University</a><br><em>Bachelor of Science · Department of Information and Computer Engineering</em></td>
+</tr>
+<tr>
+  <td><strong>2026 –</strong></td>
+  <td><a href="https://www.nycu.edu.tw/">National Yang Ming Chiao Tung University</a><br><em>Master of Science · Institute of Computer Science and Engineering</em></td>
+</tr>
+</table>
 
 ### Certificates
 
