@@ -66,7 +66,7 @@
 - TeamT5 Camp 2026
 - Taiwan Security Club 2026 Staff
 - CYCU ICE Programming Language 1142(2026) Class TA
-- DEFCON CTF 2026 Quals Competitor | Team: IB2XD
+- DEFCON CTF 2026 Quals Competitor
 
 ---
 
